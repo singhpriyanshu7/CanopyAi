@@ -1,0 +1,322 @@
+[
+  {
+    "species": "Azadirachta indica",
+    "common_name": "Neem",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-15m",
+    "mature_height": "15-20m",
+    "water_requirement": "low",
+    "growth_rate": "medium",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "medium",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/azadirachta-indica.jpg"
+    ],
+    "annual_co2_sequestration_kg": 22,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Ficus religiosa",
+    "common_name": "Peepal",
+    "native_status": "Native",
+    "root_spread": "high",
+    "root_aggressiveness": "high",
+    "canopy_width": "15-25m",
+    "mature_height": "20-30m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "high",
+    "image_urls": [
+      "/tree-images/ficus-religiosa.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Polyalthia longifolia",
+    "common_name": "False Ashoka",
+    "native_status": "Native",
+    "root_spread": "low",
+    "root_aggressiveness": "low",
+    "canopy_width": "2-4m",
+    "mature_height": "10-15m",
+    "water_requirement": "medium",
+    "growth_rate": "medium",
+    "shade_potential": "low",
+    "climate_suitability": "suitable",
+    "utility_clearance": "low",
+    "infrastructure_risk": "low",
+    "image_urls": [
+      "/tree-images/polyalthia-longifolia.jpg"
+    ],
+    "annual_co2_sequestration_kg": 22,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Delonix regia",
+    "common_name": "Gulmohar",
+    "native_status": "Exotic",
+    "root_spread": "high",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-15m",
+    "mature_height": "10-15m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "medium",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/delonix-regia.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Cassia fistula",
+    "common_name": "Amaltas",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "low",
+    "canopy_width": "5-8m",
+    "mature_height": "10-15m",
+    "water_requirement": "low",
+    "growth_rate": "medium",
+    "shade_potential": "medium",
+    "climate_suitability": "suitable",
+    "utility_clearance": "medium",
+    "infrastructure_risk": "low",
+    "image_urls": [
+      "/tree-images/cassia-fistula.jpg"
+    ],
+    "annual_co2_sequestration_kg": 22,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Syzygium cumini",
+    "common_name": "Jamun",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-15m",
+    "mature_height": "15-20m",
+    "water_requirement": "medium",
+    "growth_rate": "slow",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/syzygium-cumini.jpg"
+    ],
+    "annual_co2_sequestration_kg": 12,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Pongamia pinnata",
+    "common_name": "Karanj / Pongam",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-15m",
+    "mature_height": "15-20m",
+    "water_requirement": "low",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "medium",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/pongamia-pinnata.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Alstonia scholaris",
+    "common_name": "Saptaparni / Devil's Tree",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "medium",
+    "canopy_width": "8-12m",
+    "mature_height": "15-25m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/alstonia-scholaris.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Bauhinia variegata",
+    "common_name": "Kachnar",
+    "native_status": "Native",
+    "root_spread": "low",
+    "root_aggressiveness": "low",
+    "canopy_width": "5-8m",
+    "mature_height": "8-12m",
+    "water_requirement": "low",
+    "growth_rate": "medium",
+    "shade_potential": "medium",
+    "climate_suitability": "suitable",
+    "utility_clearance": "low",
+    "infrastructure_risk": "low",
+    "image_urls": [
+      "/tree-images/bauhinia-variegata.jpg"
+    ],
+    "annual_co2_sequestration_kg": 22,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Terminalia arjuna",
+    "common_name": "Arjun",
+    "native_status": "Native",
+    "root_spread": "high",
+    "root_aggressiveness": "medium",
+    "canopy_width": "15-20m",
+    "mature_height": "20-25m",
+    "water_requirement": "high",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/terminalia-arjuna.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Peltophorum pterocarpum",
+    "common_name": "Copper Pod",
+    "native_status": "Exotic",
+    "root_spread": "medium",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-15m",
+    "mature_height": "15-20m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/peltophorum-pterocarpum.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Tamarindus indica",
+    "common_name": "Tamarind",
+    "native_status": "Native",
+    "root_spread": "high",
+    "root_aggressiveness": "medium",
+    "canopy_width": "12-18m",
+    "mature_height": "15-25m",
+    "water_requirement": "low",
+    "growth_rate": "slow",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/tamarindus-indica.jpg"
+    ],
+    "annual_co2_sequestration_kg": 12,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Mangifera indica",
+    "common_name": "Mango",
+    "native_status": "Native",
+    "root_spread": "high",
+    "root_aggressiveness": "medium",
+    "canopy_width": "10-20m",
+    "mature_height": "15-30m",
+    "water_requirement": "medium",
+    "growth_rate": "medium",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "medium",
+    "image_urls": [
+      "/tree-images/mangifera-indica.jpg"
+    ],
+    "annual_co2_sequestration_kg": 22,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Ficus benghalensis",
+    "common_name": "Banyan",
+    "native_status": "Native",
+    "root_spread": "high",
+    "root_aggressiveness": "high",
+    "canopy_width": "20-40m",
+    "mature_height": "20-25m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "high",
+    "infrastructure_risk": "high",
+    "image_urls": [
+      "/tree-images/ficus-benghalensis.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Neolamarckia cadamba",
+    "common_name": "Kadamba",
+    "native_status": "Native",
+    "root_spread": "medium",
+    "root_aggressiveness": "low",
+    "canopy_width": "10-15m",
+    "mature_height": "15-20m",
+    "water_requirement": "high",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "medium",
+    "infrastructure_risk": "low",
+    "image_urls": [
+      "/tree-images/neolamarckia-cadamba.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  },
+  {
+    "species": "Terminalia catappa",
+    "common_name": "Indian Almond",
+    "native_status": "Exotic",
+    "root_spread": "medium",
+    "root_aggressiveness": "low",
+    "canopy_width": "10-15m",
+    "mature_height": "15-25m",
+    "water_requirement": "medium",
+    "growth_rate": "fast",
+    "shade_potential": "high",
+    "climate_suitability": "suitable",
+    "utility_clearance": "medium",
+    "infrastructure_risk": "low",
+    "image_urls": [
+      "/tree-images/terminalia-catappa.jpg"
+    ],
+    "annual_co2_sequestration_kg": 35,
+    "co2_reference_source": "Estimated baseline for mature urban trees (e.g., USFS i-Tree guidelines, adjusted for growth rate)."
+  }
+]

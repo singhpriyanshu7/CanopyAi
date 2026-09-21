@@ -1,0 +1,26 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+**/node_modules/
+
+# Build / cache
+dist/
+build/
+.vite/
+
+# Scratch / temporary
+scratch/
+
+# OS / editor
+.DS_Store
+.vscode/
